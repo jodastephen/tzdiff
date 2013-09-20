@@ -1,0 +1,3 @@
+LMT: -00:43:08
+Transition[Overlap at 1919-03-01T00:00-00:43:08 to -00:44:30]
+Transition[Gap at 1972-05-01T00:00-00:44:30 to Z]

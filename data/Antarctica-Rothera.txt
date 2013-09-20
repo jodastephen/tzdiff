@@ -1,0 +1,2 @@
+LMT: Z
+Transition[Overlap at 1976-12-01T00:00Z to -03:00]

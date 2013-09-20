@@ -1,0 +1,5 @@
+LMT: +08:22:20
+Transition[Overlap at 1912-01-01T00:00+08:22:20 to +08:00]
+Transition[Gap at 1942-02-21T23:00+08:00 to +09:00]
+Transition[Overlap at 1976-05-03T00:00+09:00 to +08:00]
+Transition[Gap at 2000-09-17T00:00+08:00 to +09:00]

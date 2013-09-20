@@ -1,0 +1,4 @@
+LMT: -11:49:28
+Transition[Gap at 1901-01-01T00:00-11:49:28 to -11:00]
+Transition[Gap at 1956-06-03T00:00-11:00 to -10:00]
+Transition[Overlap at 1956-09-02T00:00-10:00 to -11:00]

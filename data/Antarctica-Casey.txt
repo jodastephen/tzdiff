@@ -1,0 +1,6 @@
+LMT: Z
+Transition[Gap at 1969-01-01T00:00Z to +08:00]
+Transition[Gap at 2009-10-18T02:00+08:00 to +11:00]
+Transition[Overlap at 2010-03-05T02:00+11:00 to +08:00]
+Transition[Gap at 2011-10-28T02:00+08:00 to +11:00]
+Transition[Overlap at 2012-02-22T04:00+11:00 to +08:00]

@@ -1,0 +1,4 @@
+LMT: -03:52:40
+Transition[Gap at 1915-03-01T00:00-03:52:40 to -03:45]
+Transition[Gap at 1975-07-31T00:00-03:45 to -03:00]
+Transition[Overlap at 1991-01-01T00:00-03:00 to -04:00]

@@ -1,0 +1,4 @@
+LMT: -07:46:04
+Transition[Gap at 1884-01-01T00:00-07:46:04 to -07:00]
+Transition[Overlap at 1916-10-01T00:00-07:00 to -08:00]
+Transition[Gap at 1918-06-02T00:00-08:00 to -07:00]

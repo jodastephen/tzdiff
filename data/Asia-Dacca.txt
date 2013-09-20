@@ -1,0 +1,8 @@
+LMT: +06:01:40
+Transition[Overlap at 1890-01-01T00:00+06:01:40 to +05:53:20]
+Transition[Gap at 1941-10-01T00:00+05:53:20 to +06:30]
+Transition[Overlap at 1942-05-15T00:00+06:30 to +05:30]
+Transition[Gap at 1942-09-01T00:00+05:30 to +06:30]
+Transition[Overlap at 1951-09-30T00:00+06:30 to +06:00]
+Transition[Gap at 2009-06-19T23:00+06:00 to +07:00]
+Transition[Overlap at 2009-12-31T23:59+07:00 to +06:00]

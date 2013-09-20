@@ -1,0 +1,2 @@
+LMT: +02:04:12
+Transition[Overlap at 1903-03-01T00:00+02:04:12 to +02:00]

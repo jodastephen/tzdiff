@@ -1,0 +1,6 @@
+LMT: +05:53:28
+Transition[Overlap at 1880-01-01T00:00+05:53:28 to +05:53:20]
+Transition[Gap at 1941-10-01T00:00+05:53:20 to +06:30]
+Transition[Overlap at 1942-05-15T00:00+06:30 to +05:30]
+Transition[Gap at 1942-09-01T00:00+05:30 to +06:30]
+Transition[Overlap at 1945-10-15T00:00+06:30 to +05:30]

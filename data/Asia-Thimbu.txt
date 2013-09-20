@@ -1,0 +1,3 @@
+LMT: +05:58:36
+Transition[Overlap at 1947-08-15T00:00+05:58:36 to +05:30]
+Transition[Gap at 1987-10-01T00:00+05:30 to +06:00]

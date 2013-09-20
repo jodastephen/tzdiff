@@ -1,0 +1,3 @@
+LMT: +11:11:52
+Transition[Gap at 1901-01-01T00:00+11:11:52 to +11:12]
+Transition[Gap at 1951-01-01T00:00+11:12 to +11:30]

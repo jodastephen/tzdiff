@@ -1,0 +1,6 @@
+LMT: -05:56:48
+Transition[Overlap at 1921-01-01T00:00-05:56:48 to -06:00]
+Transition[Gap at 1987-05-03T00:00-06:00 to -05:00]
+Transition[Overlap at 1987-09-27T00:00-05:00 to -06:00]
+Transition[Gap at 1988-05-01T00:00-06:00 to -05:00]
+Transition[Overlap at 1988-09-25T00:00-05:00 to -06:00]

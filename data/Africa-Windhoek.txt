@@ -1,0 +1,13 @@
+LMT: +01:08:24
+Transition[Gap at 1892-02-08T00:00+01:08:24 to +01:30]
+Transition[Gap at 1903-03-01T00:00+01:30 to +02:00]
+Transition[Gap at 1942-09-20T02:00+02:00 to +03:00]
+Transition[Overlap at 1943-03-21T02:00+03:00 to +02:00]
+Transition[Overlap at 1994-04-03T00:00+02:00 to +01:00]
+Transition[Gap at 1994-09-04T02:00+01:00 to +02:00]
+Transition[Overlap at 1995-04-02T02:00+02:00 to +01:00]
+Transition[Gap at 1995-09-03T02:00+01:00 to +02:00]
+Transition[Overlap at 1996-04-07T02:00+02:00 to +01:00]
+Transition[Gap at 1996-09-01T02:00+01:00 to +02:00]
+TransitionRule[Overlap +02:00 to +01:00, SUNDAY on or after APRIL 1 at 02:00 WALL, standard offset +01:00]
+TransitionRule[Gap +01:00 to +02:00, SUNDAY on or after SEPTEMBER 1 at 02:00 WALL, standard offset +01:00]

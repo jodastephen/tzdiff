@@ -1,0 +1,3 @@
+LMT: +07:39:40
+Transition[Overlap at 1926-03-01T00:00+07:39:40 to +07:30]
+Transition[Gap at 1933-01-01T00:00+07:30 to +08:00]

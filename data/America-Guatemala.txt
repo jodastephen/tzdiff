@@ -1,0 +1,10 @@
+LMT: -06:02:04
+Transition[Gap at 1918-10-05T00:00-06:02:04 to -06:00]
+Transition[Gap at 1973-11-25T00:00-06:00 to -05:00]
+Transition[Overlap at 1974-02-24T00:00-05:00 to -06:00]
+Transition[Gap at 1983-05-21T00:00-06:00 to -05:00]
+Transition[Overlap at 1983-09-22T00:00-05:00 to -06:00]
+Transition[Gap at 1991-03-23T00:00-06:00 to -05:00]
+Transition[Overlap at 1991-09-07T00:00-05:00 to -06:00]
+Transition[Gap at 2006-04-30T00:00-06:00 to -05:00]
+Transition[Overlap at 2006-10-01T00:00-05:00 to -06:00]
