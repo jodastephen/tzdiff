@@ -1,1 +1,7 @@
-LMT: -10:00
+LMT: -10:31:26
+Transition[Gap at 1896-01-13T12:00-10:31:26 to -10:30]
+Transition[Gap at 1933-04-30T02:00-10:30 to -09:30]
+Transition[Overlap at 1933-05-21T12:00-09:30 to -10:30]
+Transition[Gap at 1942-02-09T02:00-10:30 to -09:30]
+Transition[Overlap at 1945-09-30T02:00-09:30 to -10:30]
+Transition[Gap at 1947-06-08T02:00-10:30 to -10:00]
