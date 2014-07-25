@@ -1,0 +1,7 @@
+LMT: Z
+Transition[Gap at 2005-03-27T01:00Z to +02:00]
+Transition[Overlap at 2005-10-30T03:00+02:00 to Z]
+Transition[Gap at 2006-03-26T01:00Z to +02:00]
+Transition[Overlap at 2006-10-29T03:00+02:00 to Z]
+TransitionRule[Gap Z to +02:00, SUNDAY on or after MARCH 25 at 01:00 UTC, standard offset Z]
+TransitionRule[Overlap +02:00 to Z, SUNDAY on or after OCTOBER 25 at 01:00 UTC, standard offset Z]
