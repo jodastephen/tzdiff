@@ -1,9 +1,9 @@
-LMT: +08:26:44
-Transition[Gap at 1928-01-01T00:00+08:26:44 to +08:30]
-Transition[Overlap at 1932-03-01T00:00+08:30 to +08:00]
-Transition[Gap at 1940-01-01T00:00+08:00 to +09:00]
-Transition[Overlap at 1966-05-01T00:00+09:00 to +08:30]
-Transition[Overlap at 1980-05-01T00:00+08:30 to +08:00]
+LMT: +08:05:43
+Transition[Overlap at 1901-01-01T00:00+08:05:43 to +08:00]
+Transition[Gap at 1940-06-03T00:00+08:00 to +09:00]
+Transition[Overlap at 1940-10-01T00:00+09:00 to +08:00]
+Transition[Gap at 1941-03-16T00:00+08:00 to +09:00]
+Transition[Overlap at 1941-10-01T00:00+09:00 to +08:00]
 Transition[Gap at 1986-05-04T00:00+08:00 to +09:00]
 Transition[Overlap at 1986-09-14T00:00+09:00 to +08:00]
 Transition[Gap at 1987-04-12T00:00+08:00 to +09:00]

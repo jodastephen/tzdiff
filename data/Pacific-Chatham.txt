@@ -1,5 +1,6 @@
 LMT: +12:13:48
-Transition[Gap at 1957-01-01T00:00+12:13:48 to +12:45]
+Transition[Gap at 1868-11-02T00:00+12:13:48 to +12:15]
+Transition[Gap at 1946-01-01T00:00+12:15 to +12:45]
 Transition[Gap at 1974-11-03T02:45+12:45 to +13:45]
 Transition[Overlap at 1975-02-23T03:45+13:45 to +12:45]
 Transition[Gap at 1975-10-26T02:45+12:45 to +13:45]
