@@ -1,2 +1,14 @@
 Zone is aame as:
+Africa/Abidjan
+Africa/Accra
+Africa/Bamako
+Africa/Banjul
+Africa/Conakry
+Africa/Dakar
+Africa/Freetown
+Africa/Lome
+Africa/Nouakchott
+Africa/Ouagadougou
+Africa/Timbuktu
 Atlantic/Reykjavik
+Atlantic/St_Helena

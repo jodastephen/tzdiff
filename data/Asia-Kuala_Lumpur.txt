@@ -1,5 +1,4 @@
-LMT: +06:46:46
-Transition[Gap at 1901-01-01T00:00+06:46:46 to +06:55:25]
+LMT: +06:55:25
 Transition[Gap at 1905-06-01T00:00+06:55:25 to +07:00]
 Transition[Gap at 1933-01-01T00:00+07:00 to +07:20]
 Transition[Gap at 1941-09-01T00:00+07:20 to +07:30]

@@ -1,2 +1,3 @@
 Zone is aame as:
+Asia/Kuala_Lumpur
 Asia/Singapore

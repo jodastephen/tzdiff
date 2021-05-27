@@ -1,6 +1,6 @@
-LMT: +12:19:20
-Transition[Gap at 1901-01-01T00:00+12:19:20 to +12:20]
-Transition[Gap at 1941-01-01T00:00+12:20 to +13:00]
+LMT: +12:19:12
+Transition[Gap at 1945-09-10T00:00+12:19:12 to +12:20]
+Transition[Gap at 1961-01-01T00:00+12:20 to +13:00]
 Transition[Gap at 1999-10-07T02:00+13:00 to +14:00]
 Transition[Overlap at 2000-03-19T03:00+14:00 to +13:00]
 Transition[Gap at 2000-11-05T02:00+13:00 to +14:00]

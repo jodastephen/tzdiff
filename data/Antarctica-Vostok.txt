@@ -1,2 +1,2 @@
-LMT: Z
-Transition[Gap at 1957-12-16T00:00Z to +06:00]
+LMT: +05:50:20
+Transition[Gap at 1928-01-01T00:00+05:50:20 to +06:00]
