@@ -1,1 +1,2 @@
-LMT: -07:00
+Zone is aame as:
+Etc/GMT+7

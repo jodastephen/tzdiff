@@ -1,5 +1,5 @@
 LMT: +11:07:40
 Transition[Gap at 1921-01-15T00:00+11:07:40 to +11:30]
-Transition[Overlap at 1942-03-15T00:00+11:30 to +09:00]
-Transition[Gap at 1944-08-15T00:00+09:00 to +11:30]
-Transition[Gap at 1979-05-01T00:00+11:30 to +12:00]
+Transition[Overlap at 1942-08-29T00:00+11:30 to +09:00]
+Transition[Gap at 1945-09-08T00:00+09:00 to +11:30]
+Transition[Gap at 1979-02-10T02:00+11:30 to +12:00]

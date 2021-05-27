@@ -1,5 +1,5 @@
 LMT: +00:09:21
-Transition[Overlap at 1911-03-11T00:01+00:09:21 to Z]
+Transition[Overlap at 1911-03-11T00:00+00:09:21 to Z]
 Transition[Gap at 1916-06-14T23:00Z to +01:00]
 Transition[Overlap at 1916-10-02T00:00+01:00 to Z]
 Transition[Gap at 1917-03-24T23:00Z to +01:00]

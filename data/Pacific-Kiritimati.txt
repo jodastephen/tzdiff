@@ -1,4 +1,4 @@
 LMT: -10:29:20
 Transition[Overlap at 1901-01-01T00:00-10:29:20 to -10:40]
 Transition[Gap at 1979-10-01T00:00-10:40 to -10:00]
-Transition[Gap at 1995-01-01T00:00-10:00 to +14:00]
+Transition[Gap at 1994-12-31T00:00-10:00 to +14:00]

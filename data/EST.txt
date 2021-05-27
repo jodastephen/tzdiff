@@ -1,1 +1,2 @@
-LMT: -05:00
+Zone is aame as:
+Etc/GMT+5

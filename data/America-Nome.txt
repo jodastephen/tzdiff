@@ -1,5 +1,5 @@
-LMT: +12:58:21
-Transition[Overlap at 1867-10-18T00:00+12:58:21 to -11:01:38]
+LMT: +12:58:22
+Transition[Overlap at 1867-10-19T13:29:35+12:58:22 to -11:01:38]
 Transition[Gap at 1900-08-20T12:00-11:01:38 to -11:00]
 Transition[Gap at 1942-02-09T02:00-11:00 to -10:00]
 Transition[Overlap at 1945-09-30T02:00-10:00 to -11:00]

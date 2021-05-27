@@ -1,2 +1,2 @@
-LMT: +02:59:54
-Transition[Gap at 1950-01-01T00:00+02:59:54 to +03:00]
+LMT: +03:06:52
+Transition[Overlap at 1947-03-14T00:00+03:06:52 to +03:00]

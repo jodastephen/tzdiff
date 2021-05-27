@@ -1,1 +1,13 @@
-LMT: Z
+Zone is aame as:
+Etc/GMT
+Etc/GMT+0
+Etc/GMT-0
+Etc/GMT0
+Etc/Greenwich
+Etc/UCT
+Etc/UTC
+Etc/Universal
+Etc/Zulu
+UCT
+Universal
+Zulu

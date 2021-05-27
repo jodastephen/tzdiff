@@ -1,4 +1,2 @@
-LMT: +11:09:20
-Transition[Overlap at 1901-01-01T00:00+11:09:20 to +11:00]
-Transition[Overlap at 1969-10-01T00:00+11:00 to -12:00]
-Transition[Gap at 1993-08-20T00:00-12:00 to +12:00]
+Zone is aame as:
+Pacific/Kwajalein

@@ -1,3 +1,5 @@
 LMT: -05:58:24
 Transition[Gap at 1931-01-01T00:00-05:58:24 to -05:00]
 Transition[Overlap at 1986-01-01T00:00-05:00 to -06:00]
+Transition[Gap at 1992-11-28T00:00-06:00 to -05:00]
+Transition[Overlap at 1993-02-05T00:00-05:00 to -06:00]

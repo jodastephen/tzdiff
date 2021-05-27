@@ -1,7 +1,5 @@
 LMT: +08:23
-Transition[Gap at 1890-01-01T00:00+08:23 to +08:30]
-Transition[Gap at 1904-12-01T00:00+08:30 to +09:00]
-Transition[Overlap at 1928-01-01T00:00+09:00 to +08:30]
-Transition[Gap at 1932-01-01T00:00+08:30 to +09:00]
-Transition[Overlap at 1954-03-21T00:00+09:00 to +08:00]
-Transition[Gap at 1961-08-10T00:00+08:00 to +09:00]
+Transition[Gap at 1908-04-01T00:00+08:23 to +08:30]
+Transition[Gap at 1912-01-01T00:00+08:30 to +09:00]
+Transition[Overlap at 2015-08-15T00:00+09:00 to +08:30]
+Transition[Gap at 2018-05-04T23:30+08:30 to +09:00]

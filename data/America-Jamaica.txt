@@ -1,6 +1,6 @@
-LMT: -05:07:11
-Transition[Gap at 1912-02-01T00:00-05:07:11 to -05:00]
-Transition[Gap at 1974-04-28T02:00-05:00 to -04:00]
+LMT: -05:07:10
+Transition[Gap at 1912-02-01T00:00-05:07:10 to -05:00]
+Transition[Gap at 1974-01-06T02:00-05:00 to -04:00]
 Transition[Overlap at 1974-10-27T02:00-04:00 to -05:00]
 Transition[Gap at 1975-02-23T02:00-05:00 to -04:00]
 Transition[Overlap at 1975-10-26T02:00-04:00 to -05:00]

@@ -1,2 +1,8 @@
-LMT: +10:32:52
+LMT: -13:27:08
+Transition[Gap at 1844-12-31T00:00-13:27:08 to +10:32:52]
 Transition[Gap at 1901-01-01T00:00+10:32:52 to +11:00]
+Transition[Overlap at 1914-10-01T00:00+11:00 to +09:00]
+Transition[Gap at 1919-02-01T00:00+09:00 to +11:00]
+Transition[Overlap at 1937-01-01T00:00+11:00 to +10:00]
+Transition[Overlap at 1941-04-01T00:00+10:00 to +09:00]
+Transition[Gap at 1945-08-01T00:00+09:00 to +11:00]
