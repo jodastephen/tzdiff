@@ -1,9 +1,9 @@
-LMT: -04:42:46
-Transition[Overlap at 1910-01-10T00:00-04:42:46 to -05:00]
-Transition[Gap at 1916-07-01T00:00-05:00 to -04:42:46]
-Transition[Gap at 1918-09-10T00:00-04:42:46 to -04:00]
-Transition[Overlap at 1919-07-01T00:00-04:00 to -04:42:46]
-Transition[Gap at 1927-09-01T00:00-04:42:46 to -04:00]
+LMT: -04:42:45
+Transition[Overlap at 1910-01-10T00:00-04:42:45 to -05:00]
+Transition[Gap at 1916-07-01T00:00-05:00 to -04:42:45]
+Transition[Gap at 1918-09-10T00:00-04:42:45 to -04:00]
+Transition[Overlap at 1919-07-01T00:00-04:00 to -04:42:45]
+Transition[Gap at 1927-09-01T00:00-04:42:45 to -04:00]
 Transition[Overlap at 1928-04-01T00:00-04:00 to -05:00]
 Transition[Gap at 1928-09-01T00:00-05:00 to -04:00]
 Transition[Overlap at 1929-04-01T00:00-04:00 to -05:00]

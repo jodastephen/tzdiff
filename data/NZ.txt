@@ -1,4 +1,4 @@
-Zone is aame as:
+Zone is same as:
 Antarctica/McMurdo
 Antarctica/South_Pole
 Pacific/Auckland

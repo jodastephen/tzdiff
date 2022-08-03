@@ -1,4 +1,4 @@
-Zone is aame as:
+Zone is same as:
 Europe/Belfast
 Europe/Guernsey
 Europe/Isle_of_Man
