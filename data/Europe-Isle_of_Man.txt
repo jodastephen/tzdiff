@@ -1,5 +1,5 @@
-LMT: -00:01:15
-Transition[Gap at 1847-12-01T00:00-00:01:15 to Z]
+LMT: -00:17:55
+Transition[Gap at 1883-03-30T00:00-00:17:55 to Z]
 Transition[Gap at 1916-05-21T02:00Z to +01:00]
 Transition[Overlap at 1916-10-01T03:00+01:00 to Z]
 Transition[Gap at 1917-04-08T02:00Z to +01:00]

@@ -1,4 +1,4 @@
-Zone is aame as:
+Zone is same as:
 America/Denver
 America/Shiprock
 US/Mountain
