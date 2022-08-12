@@ -1,5 +1,4 @@
-LMT: -00:25
-Transition[Overlap at 1880-08-02T00:00-00:25 to -00:25:21]
+LMT: -00:25:21
 Transition[Gap at 1916-05-21T02:00-00:25:21 to +00:34:39]
 Transition[Overlap at 1916-10-01T03:00+00:34:39 to Z]
 Transition[Gap at 1917-04-08T02:00Z to +01:00]
