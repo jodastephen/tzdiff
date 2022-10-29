@@ -1,5 +1,5 @@
 LMT: -07:48:04
-Transition[Gap at 1922-01-01T00:11:56-07:48:04 to -07:00]
+Transition[Gap at 1921-12-31T23:11:56-07:48:04 to -07:00]
 Transition[Overlap at 1924-01-01T00:00-07:00 to -08:00]
 Transition[Gap at 1927-06-10T23:00-08:00 to -07:00]
 Transition[Overlap at 1930-11-15T00:00-07:00 to -08:00]
