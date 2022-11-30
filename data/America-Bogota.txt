@@ -1,4 +1,4 @@
 LMT: -04:56:16
 Transition[Overlap at 1914-11-23T00:00-04:56:16 to -05:00]
 Transition[Gap at 1992-05-03T00:00-05:00 to -04:00]
-Transition[Overlap at 1993-04-04T00:00-04:00 to -05:00]
+Transition[Overlap at 1993-02-07T00:00-04:00 to -05:00]
