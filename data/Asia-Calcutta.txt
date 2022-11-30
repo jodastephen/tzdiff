@@ -1,8 +1,1 @@
-LMT: +05:53:28
-Transition[Overlap at 1854-06-28T00:00+05:53:28 to +05:53:20]
-Transition[Overlap at 1870-01-01T00:00+05:53:20 to +05:21:10]
-Transition[Gap at 1906-01-01T00:00+05:21:10 to +05:30]
-Transition[Gap at 1941-10-01T00:00+05:30 to +06:30]
-Transition[Overlap at 1942-05-15T00:00+06:30 to +05:30]
-Transition[Gap at 1942-09-01T00:00+05:30 to +06:30]
-Transition[Overlap at 1945-10-15T00:00+06:30 to +05:30]
+Zone has been renamed to Asia/Kolkata

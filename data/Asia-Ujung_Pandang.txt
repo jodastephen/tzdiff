@@ -1,4 +1,1 @@
-LMT: +07:57:36
-Transition[Gap at 1932-11-01T00:00+07:57:36 to +08:00]
-Transition[Gap at 1942-02-09T00:00+08:00 to +09:00]
-Transition[Overlap at 1945-09-23T00:00+09:00 to +08:00]
+Zone has been renamed to Asia/Makassar
