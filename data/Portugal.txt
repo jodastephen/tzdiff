@@ -1,2 +1,3 @@
 Zone is same as:
 Europe/Lisbon
+WET

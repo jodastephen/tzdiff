@@ -1,2 +1,3 @@
 Zone is same as:
-Etc/GMT+7
+America/Phoenix
+US/Arizona

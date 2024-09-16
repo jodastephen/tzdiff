@@ -1,4 +1,5 @@
 Zone is same as:
 America/Denver
 America/Shiprock
+MST7MDT
 US/Mountain
